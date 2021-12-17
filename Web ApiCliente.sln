@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web ApiCliente", "Web ApiCliente.csproj", "{9C96E370-2F2A-437B-8AD9-77EEBBB467C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDatos.Cliente", "..\LibreriaDatos.Cliente\LibreriaDatos.Cliente.csproj", "{22C3EC7D-B3F7-405A-B114-5D3F246695F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C96E370-2F2A-437B-8AD9-77EEBBB467C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C96E370-2F2A-437B-8AD9-77EEBBB467C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C96E370-2F2A-437B-8AD9-77EEBBB467C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C96E370-2F2A-437B-8AD9-77EEBBB467C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C3EC7D-B3F7-405A-B114-5D3F246695F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C3EC7D-B3F7-405A-B114-5D3F246695F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C3EC7D-B3F7-405A-B114-5D3F246695F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C3EC7D-B3F7-405A-B114-5D3F246695F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3CF10DF-97D3-4842-BA3A-D5E1167419DE}
+	EndGlobalSection
+EndGlobal

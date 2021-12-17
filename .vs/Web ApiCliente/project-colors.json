@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c96e370-2f2a-437b-8ad9-77eebbb467c8": {
+      "ProjectGuid": "9c96e370-2f2a-437b-8ad9-77eebbb467c8",
+      "DisplayName": "Web ApiCliente",
+      "ColorIndex": 0
+    },
+    "22c3ec7d-b3f7-405a-b114-5d3f246695f9": {
+      "ProjectGuid": "22c3ec7d-b3f7-405a-b114-5d3f246695f9",
+      "DisplayName": "LibreriaDatos.Cliente",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
